@@ -7,3 +7,9 @@ Api used : Open Weather api;
 url for open weather api: https://openweathermap.org/api
 
 The weather app is currently is in alpha stage more changes will be added to it soon.
+
+Slack used here :
+Open weather api
+HTML5
+Css3
+js
